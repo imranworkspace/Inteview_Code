@@ -1,0 +1,4 @@
+myenv
+django_test/api/migrations/*.pyc
+django_test/django_test/__pycache__/*.pyc
+django_test/api/__pycache__/*.pyc
