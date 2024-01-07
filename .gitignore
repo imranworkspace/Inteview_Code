@@ -2,3 +2,12 @@ myenv
 django_test/api/migrations/*.pyc
 django_test/django_test/__pycache__/*.pyc
 django_test/api/__pycache__/*.pyc
+django_test/q_object/__pycache__/*.pyc
+django_test/myapp1/__pycache__/*.pyc
+django_test/myapp2/__pycache__/*.pyc
+
+django_test/api/migrations/__pycache__/*.pyc
+django_test/q_object/migrations/__pycache__/*.pyc
+django_test/myapp1/migrations/__pycache__/*.pyc
+django_test/myapp2/migrations/__pycache__/*.pyc
+
