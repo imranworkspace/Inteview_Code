@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'q_object',
     'myapp1',
     'myapp2',
+    'cookie',
 ]
 
 MIDDLEWARE = [
