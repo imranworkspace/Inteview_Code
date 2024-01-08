@@ -44,6 +44,7 @@ INSTALLED_APPS = [
     'myapp2',
     'cookie',
     'middleware',
+    'signals',
 ]
 
 MIDDLEWARE = [
@@ -55,7 +56,7 @@ MIDDLEWARE = [
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
     # 'middleware.fbv_middlewares.mymiddleware', # fbv middleware
-    'middleware.cbv_middleware.Mymiddeware'  # cbv middleware
+    # 'middleware.cbv_middleware.Mymiddeware'  # cbv middleware
 ]
 
 ROOT_URLCONF = 'django_test.urls'

@@ -7,6 +7,7 @@ django_test/myapp1/__pycache__/*.pyc
 django_test/myapp2/__pycache__/*.pyc
 django_test/cookie/__pycache__/*.pyc
 django_test/middleware/__pycache__/*.pyc
+django_test/signals/__pycache__/*.pyc
 
 django_test/api/migrations/__pycache__/*.pyc
 django_test/q_object/migrations/__pycache__/*.pyc
@@ -14,3 +15,6 @@ django_test/myapp1/migrations/__pycache__/*.pyc
 django_test/myapp2/migrations/__pycache__/*.pyc
 django_test/cookie/migrations/__pycache__/*.pyc
 django_test/middleware/migrations/__pycache__/*.pyc
+django_test/signals/migrations/__pycache__/*.pyc
+
+# signals
