@@ -21,4 +21,5 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('q/',include('q_object.urls')),
     path('gud/',include('myapp1.urls')),
+    path('cook/',include('cookie.urls')),
 ]
