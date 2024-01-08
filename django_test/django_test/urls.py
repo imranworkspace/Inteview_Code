@@ -22,4 +22,5 @@ urlpatterns = [
     path('q/',include('q_object.urls')),
     path('gud/',include('myapp1.urls')),
     path('cook/',include('cookie.urls')),
+    path('middleware/',include('middleware.urls')),
 ]
