@@ -6,6 +6,9 @@
     <title>Index</title>
 </head>
 <body>
-    <b>welcome {{name|length}}</b>
+    <b>welcome {{name|length}} {{name|slice:3}} {{name|truncatechars:3}}</b> <br>
+    <span>date {{dt}}</span> <br>
+    <span>date {{dt|date:'D d M Y'}}</span> <br>
+    <span>date {{dt|date:'SHORT_DATE_FORMATE'}}</span> <br>
 </body>
 </html>
