@@ -24,5 +24,6 @@ urlpatterns = [
     path('cook/',include('cookie.urls')),
     path('middleware/',include('middleware.urls')),
     path('templates/',include('templates.urls')),
+    path('mystatic/',include('mystatic.urls')),
     
 ]
